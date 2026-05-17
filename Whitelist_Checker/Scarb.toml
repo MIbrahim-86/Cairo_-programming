@@ -8,4 +8,4 @@ starknet = "2.11.4"
 
 [[target.starknet-contract]]
 sierra = true
-casm = true
+casm = trueassignment 
